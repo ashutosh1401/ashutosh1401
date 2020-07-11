@@ -1,10 +1,9 @@
 ### Hi there 👋
 
+**ASHUTOSH THAKUR**
 <!--
 **ashutosh1401/ashutosh1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Node.JS , Express.js and MongoDB.
 - 🌱 I’m currently learning MongoDB, React JS.
 - 👯 I’m looking to collaborate on Web-development Projects
