@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi **ASHUTOSH THAKUR** there 👋
 
-**ASHUTOSH THAKUR**
 <!--
 **ashutosh1401/ashutosh1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
