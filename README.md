@@ -50,6 +50,12 @@
 - Made a Quiz Application [![Link](https://img.shields.io/badge/-QUIZ-yellow?style=flat&logo=quiz&logoColor=38cf13)](https://github.com/ashutosh1401/covid-19-Tracker)
 - Made a BlockBreaker game using HTML Canvas. [![Link](https://img.shields.io/badge/-BlockBreaker-green?style=flat&logo=blockbreaker&logoColor=38cf13)](https://ashutosh1401.github.io/BlockBreaker/)
 - Made a Telegram Bot [![Link](https://img.shields.io/badge/-Telegram-Black?style=flat&logo=telegram&logoColor=Blue)](https://github.com/ashutosh1401/telegram-bot)
+
+#### GitHub stats :-
+
+![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh1401&show_icons=true&theme=radical) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh1401&show_icons=true&theme=radical&layout=compact)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
