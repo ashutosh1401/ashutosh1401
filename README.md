@@ -56,6 +56,9 @@
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh1401&show_icons=true&theme=radical) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh1401&show_icons=true&theme=radical&layout=compact)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1401&repo=HACKCOVID19_TEAMMARCOS&show_icons=true&theme=radical)](https://github.com/ashutosh1401/HACKCOVID19_TEAMMARCOS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1401&repo=News-Application&show_icons=true&theme=radical)](https://github.com/ashutosh1401/News-Application)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
