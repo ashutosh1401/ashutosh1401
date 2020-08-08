@@ -57,10 +57,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh1401&show_icons=true&theme=radical&layout=compact)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1401&repo=HACKCOVID19_TEAMMARCOS&show_icons=true&theme=radical)](https://github.com/ashutosh1401/HACKCOVID19_TEAMMARCOS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1401&repo=News-Application&show_icons=true&theme=radical)](https://github.com/ashutosh1401/News-Application)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1401&repo=node-weather-app&show_icons=true&theme=radical)](https://github.com/ashutosh1401/node-weather-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1401&repo=telegram-bot&show_icons=true&theme=radical)](https://github.com/ashutosh1401/telegram-bot)
+[![HackCovid](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1401&repo=HACKCOVID19_TEAMMARCOS&show_icons=true&theme=radical)](https://github.com/ashutosh1401/HACKCOVID19_TEAMMARCOS)
+[![NewsApp](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1401&repo=News-Application&show_icons=true&theme=radical)](https://github.com/ashutosh1401/News-Application)
+[![WeatherApp](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1401&repo=node-weather-app&show_icons=true&theme=radical)](https://github.com/ashutosh1401/node-weather-app)
+[![TelegramBot](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1401&repo=telegram-bot&show_icons=true&theme=radical)](https://github.com/ashutosh1401/telegram-bot)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
