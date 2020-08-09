@@ -3,7 +3,7 @@
 <!--
 **ashutosh1401/ashutosh1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
--   :mortar_board: Currently Studying in Indian Institute of Information Technology, Surat
+-   :mortar_board: Currently Studying in **Indian Institute of Information Technology, Surat (2023)**
 - 👯 I’m looking to collaborate on Web-development Projects
 - 🤔 I’m looking for help with further concepts on Web-Development and Cross-platform Mobile Development using React-Native.
 - 📫 How to reach me: You can contact me with the following Links :-
