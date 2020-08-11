@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-thakur-5aa181199/)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-fa37e3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/as.hutosh5613/)
 [![Twitter](https://img.shields.io/badge/-TWITTER-6db0f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marcos_ashutosh)
+[![CodePen](https://img.shields.io/badge/-CodePen-858d8f?style=for-the-badge&logo=codepen&logoColor=070808)](https://codepen.io/ashutosh1401)
 
 #### Languages Known to me
 
