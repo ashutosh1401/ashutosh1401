@@ -7,7 +7,7 @@
 -->
 -   :mortar_board: Currently Studying in **Indian Institute of Information Technology, Surat (2023)**
 - 👯 I’m looking to collaborate on Web-development Projects
-- 🤔 I’m looking for help with further concepts on Web-Development and Cross-platform Mobile Development using React-Native.
+- 🤔 I’m looking for help with further improvement on Web-Development and Cross-platform Mobile Development using React-Native.
 - 📫 How to reach me: You can contact me with the following Links :-
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshthakur1409@gmail.com)
