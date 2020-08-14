@@ -8,6 +8,7 @@
 -   :mortar_board: Currently Studying in **Indian Institute of Information Technology, Surat (2023)**
 - 👯 I’m looking to collaborate on Web-development Projects
 - 🤔 I’m looking for help with further improvement on Web-Development and Cross-platform Mobile Development using React-Native.
+- :heart: Currently in Love with JavaScript.
 - 📫 How to reach me: You can contact me with the following Links :-
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshthakur1409@gmail.com)
@@ -48,6 +49,7 @@
 
 - Made a News Application using NodeJS and Express.JS [![Link](https://img.shields.io/badge/-NEWS-black?style=badge&logo=news&logoColor=38cf13)](https://github.com/ashutosh1401/News-Application)
 - Made a weather app which provides correct forecast on the basis of location you have entered [![Link](https://img.shields.io/badge/-WEATHER-black?style=flat&logo=cloud&logoColor=38cf13)](https://weather-app-ashutosh.herokuapp.com)
+- Made a To-Do application using React JS [![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)](https://codesandbox.io/s/github/ashutosh1401/ToDo-App).
 - Made a Issue Tracking Application . [![Link](https://img.shields.io/badge/-IssueTracker-blue?style=flat&logo=cloud&logoColor=38cf13)](https://github.com/ashutosh1401/Issue-Tracker)
 - Made a Covid-19-India Tracker [![Link](https://img.shields.io/badge/-Covid19-Red?style=flat&logo=cloud&logoColor=38cf13)](https://github.com/ashutosh1401/covid-19-Tracker)
 - Made a Quiz Application [![Link](https://img.shields.io/badge/-QUIZ-yellow?style=flat&logo=quiz&logoColor=38cf13)](https://github.com/ashutosh1401/covid-19-Tracker)
