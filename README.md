@@ -44,9 +44,11 @@
 ![Arduino](https://img.shields.io/badge/-ARDUINO-4da6f0?style=flat&logo=arduino&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MONGODB-black?style=badge&logo=mongodb&logoColor=38cf13)
 ![Postman](https://img.shields.io/badge/-POSTMAN-orange?style=flat&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-f24130?style=flat&logo=jest&logoColor=white)
 
 #### Projects I have Made
 
+- Made a Task Manager API using NodeJS and ExpressJS and also added authentication in it using JWT [![Link](https://img.shields.io/badge/-Task-black?style=flat&logo=task&logoColor=white)](https://github.com/ashutosh1401/task-manager-api)
 - Made a News Application using NodeJS and Express.JS [![Link](https://img.shields.io/badge/-NEWS-black?style=badge&logo=news&logoColor=38cf13)](https://github.com/ashutosh1401/News-Application)
 - Made a weather app which provides correct forecast on the basis of location you have entered [![Link](https://img.shields.io/badge/-WEATHER-black?style=flat&logo=cloud&logoColor=38cf13)](https://weather-app-ashutosh.herokuapp.com)
 - Made a To-Do application using React JS [![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)](https://codesandbox.io/s/github/ashutosh1401/ToDo-App).
