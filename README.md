@@ -1,7 +1,7 @@
 ### Hello Everyone !!
 
 ### **ASHUTOSH THAKUR** here 👋
-<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+
 <!--
 **ashutosh1401/ashutosh1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
