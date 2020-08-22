@@ -1,6 +1,6 @@
 ### Hello Everyone !!
 
-### **ASHUTOSH THAKUR** here 👋 ![](https://komarev.com/ghpvc/?username=ashutosh1401&style=flat-square)
+### **ASHUTOSH THAKUR** here 👋 ![stat](https://komarev.com/ghpvc/?username=ashutosh1401&style=flat-square)
 
 <!--
 **ashutosh1401/ashutosh1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
   
-  **Non - Programming Languages**
+  **Conversational Languages**
   - English
   - Hindi
   
