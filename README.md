@@ -17,7 +17,7 @@
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-fa37e3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/as.hutosh5613/)
 [![Twitter](https://img.shields.io/badge/-TWITTER-6db0f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marcos_ashutosh)
 [![CodePen](https://img.shields.io/badge/-CodePen-858d8f?style=for-the-badge&logo=codepen&logoColor=070808)](https://codepen.io/ashutosh1401)
-
+[![Devfolio](https://img.shields.io/badge/-Devfolio-315bf5?style=for-the-badge&logo=devfolio&logoColor=070808)](https://devfolio.co/@ashutosh1415)
 #### Languages Known to me
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
