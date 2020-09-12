@@ -40,6 +40,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![CSS3](https://img.shields.io/badge/-CSS-53e0ce?style=flat&logo=css3&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-f24130?style=flat&logo=npm&logoColor=white)
+![YARN](https://img.shields.io/badge/-YARN-298bd6?style=flat&logo=yarn&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Arduino](https://img.shields.io/badge/-ARDUINO-4da6f0?style=flat&logo=arduino&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MONGODB-black?style=badge&logo=mongodb&logoColor=38cf13)
