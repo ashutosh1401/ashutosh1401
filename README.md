@@ -35,6 +35,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-f0dff5?style=flat&logo=Redux&logoColor=bb46db)
 ![Express.js](https://img.shields.io/badge/-Express.js-222222?style=flat&logo=express.js&logoColor=339933)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-a950cc?style=flat&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
@@ -57,7 +58,7 @@
 - Made a Covid-19-India Tracker [![Link](https://img.shields.io/badge/-Covid19-Red?style=flat&logo=cloud&logoColor=38cf13)](https://github.com/ashutosh1401/covid-19-Tracker)
 - Made a Quiz Application [![Link](https://img.shields.io/badge/-QUIZ-yellow?style=flat&logo=quiz&logoColor=38cf13)](https://github.com/ashutosh1401/covid-19-Tracker)
 - Made a BlockBreaker game using HTML Canvas. [![Link](https://img.shields.io/badge/-BlockBreaker-green?style=flat&logo=blockbreaker&logoColor=38cf13)](https://ashutosh1401.github.io/BlockBreaker/)
-- Made a Telegram Bot [![Link](https://img.shields.io/badge/-Telegram-Black?style=flat&logo=telegram&logoColor=Blue)](https://github.com/ashutosh1401/telegram-bot)
+- Made a Telegram Bot [![Link](https://img.shields.io/badge/-Telegram-black?style=flat&logo=telegram&logoColor=Blue)](https://github.com/ashutosh1401/telegram-bot)
 
 #### GitHub stats :-
 
