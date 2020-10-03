@@ -8,6 +8,7 @@
 -   :mortar_board: Currently Studying in **Indian Institute of Information Technology, Surat (2023)**
 - 👯 I’m looking to collaborate on Web-development Projects
 - 🤔 I’m looking for help with further improvement on Web-Development and Cross-platform Mobile Development using React-Native.
+- :blue_heart: I am Also Learning UI/UX designing using Figma.
 - :heart: Currently in Love with JavaScript.
 - 📫 How to reach me: You can contact me with the following Links :-
 
@@ -47,6 +48,7 @@
 ![MongoDB](https://img.shields.io/badge/-MONGODB-black?style=badge&logo=mongodb&logoColor=38cf13)
 ![Postman](https://img.shields.io/badge/-POSTMAN-orange?style=flat&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-f24130?style=flat&logo=jest&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-ffffff?style=flat&logo=sass&logoColor=ed61bf)
 
 #### Projects I have Made
 
