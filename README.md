@@ -39,7 +39,6 @@
 ![Redux](https://img.shields.io/badge/-Redux-f0dff5?style=flat&logo=Redux&logoColor=bb46db)
 ![Express.js](https://img.shields.io/badge/-Express.js-222222?style=flat&logo=express.js&logoColor=339933)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-a950cc?style=flat&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![CSS3](https://img.shields.io/badge/-CSS-53e0ce?style=flat&logo=css3&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-f24130?style=flat&logo=npm&logoColor=white)
 ![YARN](https://img.shields.io/badge/-YARN-298bd6?style=flat&logo=yarn&logoColor=white)
@@ -68,9 +67,9 @@
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh1401&show_icons=true&theme=radical&layout=compact)
 
+[![DevConnect](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1401&repo=DevConnect&show_icons=true&theme=radical)](https://github.com/ashutosh1401/DevConnect)
 [![HackCovid](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1401&repo=HACKCOVID19_TEAMMARCOS&show_icons=true&theme=radical)](https://github.com/ashutosh1401/HACKCOVID19_TEAMMARCOS)
 [![NewsApp](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1401&repo=News-Application&show_icons=true&theme=radical)](https://github.com/ashutosh1401/News-Application)
-[![WeatherApp](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1401&repo=node-weather-app&show_icons=true&theme=radical)](https://github.com/ashutosh1401/node-weather-app)
 [![TelegramBot](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1401&repo=telegram-bot&show_icons=true&theme=radical)](https://github.com/ashutosh1401/telegram-bot)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
