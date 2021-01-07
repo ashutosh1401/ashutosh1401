@@ -35,7 +35,7 @@
 
 - Social Media Application using MERN stack [![Link](https://img.shields.io/badge/-DevConnect-cyan?style=flat&logo=task&logoColor=white)](https://dev-connect-20.herokuapp.com)
 - Made a Task Manager API using NodeJS and ExpressJS and also added authentication in it using JWT [![Link](https://img.shields.io/badge/-Task-black?style=flat&logo=task&logoColor=white)](https://github.com/ashutosh1401/task-manager-api)
-- Made a News Application using NodeJS and Express.JS [![Link](https://img.shields.io/badge/-NEWS-black?style=badge&logo=news&logoColor=38cf13)]https://news-application-ashutosh.herokuapp.com/)
+- Made a News Application using NodeJS and Express.JS [![Link](https://img.shields.io/badge/-NEWS-black?style=badge&logo=news&logoColor=38cf13)](https://news-application-ashutosh.herokuapp.com/)
 - Made a weather app which provides correct forecast on the basis of location you have entered [![Link](https://img.shields.io/badge/-WEATHER-black?style=flat&logo=cloud&logoColor=38cf13)](https://weather-app-ashutosh.herokuapp.com)
 - Made a Meme Generator Application using React JS [![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)](https://codesandbox.io/s/github/ashutosh1401/Meme-Generator).
 - Made a Covid-19-India Tracker [![Link](https://img.shields.io/badge/-Covid19-Red?style=flat&logo=cloud&logoColor=38cf13)](https://github.com/ashutosh1401/covid-19-Tracker)
