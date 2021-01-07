@@ -33,14 +33,13 @@
 
 #### Projects I have Made
 
+- Social Media Application using MERN stack [![Link](https://img.shields.io/badge/-DevConnect-cyan?style=flat&logo=task&logoColor=white)](https://dev-connect-20.herokuapp.com)
 - Made a Task Manager API using NodeJS and ExpressJS and also added authentication in it using JWT [![Link](https://img.shields.io/badge/-Task-black?style=flat&logo=task&logoColor=white)](https://github.com/ashutosh1401/task-manager-api)
-- Made a News Application using NodeJS and Express.JS [![Link](https://img.shields.io/badge/-NEWS-black?style=badge&logo=news&logoColor=38cf13)](https://github.com/ashutosh1401/News-Application)
+- Made a News Application using NodeJS and Express.JS [![Link](https://img.shields.io/badge/-NEWS-black?style=badge&logo=news&logoColor=38cf13)]https://news-application-ashutosh.herokuapp.com/)
 - Made a weather app which provides correct forecast on the basis of location you have entered [![Link](https://img.shields.io/badge/-WEATHER-black?style=flat&logo=cloud&logoColor=38cf13)](https://weather-app-ashutosh.herokuapp.com)
 - Made a Meme Generator Application using React JS [![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)](https://codesandbox.io/s/github/ashutosh1401/Meme-Generator).
-- Made a Issue Tracking Application . [![Link](https://img.shields.io/badge/-IssueTracker-blue?style=flat&logo=cloud&logoColor=38cf13)](https://github.com/ashutosh1401/)
 - Made a Covid-19-India Tracker [![Link](https://img.shields.io/badge/-Covid19-Red?style=flat&logo=cloud&logoColor=38cf13)](https://github.com/ashutosh1401/covid-19-Tracker)
-- Made a Quiz Application [![Link](https://img.shields.io/badge/-QUIZ-yellow?style=flat&logo=quiz&logoColor=38cf13)](https://github.com/ashutosh1401/covid-19-Tracker)
-- Made a BlockBreaker game using HTML Canvas. [![Link](https://img.shields.io/badge/-BlockBreaker-green?style=flat&logo=blockbreaker&logoColor=38cf13)](https://ashutosh1401.github.io/BlockBreaker/)
+- Made a Quiz Application [![Link](https://img.shields.io/badge/-QUIZ-yellow?style=flat&logo=quiz&logoColor=38cf13)](https://github.com/ashutosh1401/HACKCOVID19_TEAMMARCOS)
 - Made a Telegram Bot [![Link](https://img.shields.io/badge/-Telegram-black?style=flat&logo=telegram&logoColor=Blue)](https://github.com/ashutosh1401/telegram-bot)
 
 #### GitHub stats :-
