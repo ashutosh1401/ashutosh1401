@@ -19,6 +19,7 @@
 [![Twitter](https://img.shields.io/badge/-TWITTER-6db0f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marcos_ashutosh)
 [![CodePen](https://img.shields.io/badge/-CodePen-858d8f?style=for-the-badge&logo=codepen&logoColor=070808)](https://codepen.io/ashutosh1401)
 [![Devfolio](https://img.shields.io/badge/-Devfolio-315bf5?style=for-the-badge&logo=devfolio&logoColor=070808)](https://devfolio.co/@ashutosh1415)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-b06ab3?style=for-the-badge&logo=portfolio)](https://ashutosh-portfolio-72a78.web.app/)
 #### Languages Known to me
 
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
